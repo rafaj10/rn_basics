@@ -1,0 +1,17 @@
+{
+    "accessibility_login_username": "digite seu login ou email",
+    "accessibility_login_password": "digite sua senha",
+    "accessibility_login_confirm": "Confirmar, toque duas vezes para entrar no aplicativo",
+    "accessibility_radar_tab": "Publicações da comunidade",
+    "accessibility_chat_tab": "Minhas Coversas",
+    "accessibility_agenda_tab": "Minha Agenda",
+    "accessibility_more_options_tab": "Mais opções",
+    "accessibility_more_options_helpdesk": "Atendimento",
+    "accessibility_more_options_profile": "Perfil",
+    "accessibility_more_options_language": "Idioma. Idioma selecionado:",
+    "accessibility_more_options_version": "Versão do aplicativo:",
+    "accessibility_more_options_logout": "Sair",
+    "accessibility_helpdesk_area": "Área:",
+    "accessibility_attendant": "Atendente:",
+    "accessibility_back": "Voltar"
+}

@@ -1,0 +1,17 @@
+{
+    "accessibility_login_username": "input your login or email",
+    "accessibility_login_password": "input your password",
+    "accessibility_login_confirm": "Confirm, double tap to login",
+    "accessibility_radar_tab": "Community publications",
+    "accessibility_chat_tab": "My Chats",
+    "accessibility_agenda_tab": "My Agenda",
+    "accessibility_more_options_tab": "More options",
+    "accessibility_more_options_helpdesk": "Helpdesk",
+    "accessibility_more_options_profile": "Profile",
+    "accessibility_more_options_language": "Language. Selected language:",
+    "accessibility_more_options_version": "App version:",
+    "accessibility_more_options_logout": "Logout",
+    "accessibility_helpdesk_area": "Area:",
+    "accessibility_attendant": "Attendant:",
+    "accessibility_back": "back"
+}
